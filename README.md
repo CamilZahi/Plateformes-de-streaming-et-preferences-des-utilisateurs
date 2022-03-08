@@ -1,2 +1,2 @@
-# Plateformes-de-streaming-et-pr-f-rences-des-utilisateurs-Python-
-analysedu contenu des principales plateformes de streaming (Netflix, Amazon  Prime Video, Disney +), création d’un moteur de recherche par titre, genre, nom d’acteur… et affichage des suggestions sur une interface.
+# Plateformes de streaming et préférences des utilisateurs [Python] : Data Management & Data Visualisation
+Création d’un moteur de recherche à partir du contenu Netflix, Amazon Prime Video, Disney+, et affichage des suggestions utilisateurs sur une interface.
